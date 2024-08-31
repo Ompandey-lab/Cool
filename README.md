@@ -1,2 +1,3 @@
 # Cool
-This is my First Repository
+I am using Github.
+Author- Om pandey
